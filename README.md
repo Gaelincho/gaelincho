@@ -1,6 +1,6 @@
-## Hi! 👋
+## Hi! 
 
-<figure><embed src="https://wakatime.com/share/@1fb6ca9e-7779-4731-9b46-f3867b252927/7cc5ffcd-7ed4-4828-8f4d-44a6008cd85e.svg"></embed></figure>
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=glnch)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Gaelincho/gaelincho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
